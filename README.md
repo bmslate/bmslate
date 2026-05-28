@@ -64,5 +64,5 @@ I enjoy projects that connect software with real-world behavior:
 ## Contact
 
 - GitHub: [github.com/bmslate](https://github.com/bmslate)
-- LinkedIn: Add your LinkedIn profile link here
-- Email: Add your preferred contact email here
+- LinkedIn: www.linkedin.com/in/huijun-bu-728037292
+- Email: bmslate2022@gmail.com
